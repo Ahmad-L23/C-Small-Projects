@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\C\u002B\u002B Projects\\ConsoleApplication1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{9296DE3A-6E65-451C-8E95-3F21BF3E6BBA}|ConsoleApplication1\\ConsoleApplication1.vcxproj|C:\\C\u002B\u002B Projects\\ConsoleApplication1\\ConsoleApplication1\\Rock-Paper-Scissors_Game.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{9296DE3A-6E65-451C-8E95-3F21BF3E6BBA}|ConsoleApplication1\\ConsoleApplication1.vcxproj|solutionrelative:ConsoleApplication1\\Rock-Paper-Scissors_Game.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Rock-Paper-Scissors_Game.cpp",
+              "DocumentMoniker": "C:\\C\u002B\u002B Projects\\ConsoleApplication1\\ConsoleApplication1\\Rock-Paper-Scissors_Game.cpp",
+              "RelativeDocumentMoniker": "ConsoleApplication1\\Rock-Paper-Scissors_Game.cpp",
+              "ToolTip": "C:\\C\u002B\u002B Projects\\ConsoleApplication1\\ConsoleApplication1\\Rock-Paper-Scissors_Game.cpp",
+              "RelativeToolTip": "ConsoleApplication1\\Rock-Paper-Scissors_Game.cpp",
+              "ViewState": "AgIAAIcAAAAAAAAAAAAAAJcAAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-05-13T03:31:24.327Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

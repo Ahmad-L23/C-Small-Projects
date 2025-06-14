@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\C\u002B\u002B Projects\\MyOwnLibraries\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{DEA9406F-161C-493E-8F0D-7485014C508F}|MyOwnLibraries\\MyOwnLibraries.vcxproj|C:\\C\u002B\u002B Projects\\MyOwnLibraries\\MyOwnLibraries\\MyOwnLibraries.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{DEA9406F-161C-493E-8F0D-7485014C508F}|MyOwnLibraries\\MyOwnLibraries.vcxproj|solutionrelative:MyOwnLibraries\\MyOwnLibraries.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DEA9406F-161C-493E-8F0D-7485014C508F}|MyOwnLibraries\\MyOwnLibraries.vcxproj|C:\\C\u002B\u002B Projects\\MyOwnLibraries\\MyOwnLibraries\\MyLib.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{DEA9406F-161C-493E-8F0D-7485014C508F}|MyOwnLibraries\\MyOwnLibraries.vcxproj|solutionrelative:MyOwnLibraries\\MyLib.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MyOwnLibraries.cpp",
+              "DocumentMoniker": "C:\\C\u002B\u002B Projects\\MyOwnLibraries\\MyOwnLibraries\\MyOwnLibraries.cpp",
+              "RelativeDocumentMoniker": "MyOwnLibraries\\MyOwnLibraries.cpp",
+              "ToolTip": "C:\\C\u002B\u002B Projects\\MyOwnLibraries\\MyOwnLibraries\\MyOwnLibraries.cpp",
+              "RelativeToolTip": "MyOwnLibraries\\MyOwnLibraries.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-05-13T22:48:33.577Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MyLib.h",
+              "DocumentMoniker": "C:\\C\u002B\u002B Projects\\MyOwnLibraries\\MyOwnLibraries\\MyLib.h",
+              "RelativeDocumentMoniker": "MyOwnLibraries\\MyLib.h",
+              "ToolTip": "C:\\C\u002B\u002B Projects\\MyOwnLibraries\\MyOwnLibraries\\MyLib.h",
+              "RelativeToolTip": "MyOwnLibraries\\MyLib.h",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABgAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-05-13T22:37:42.142Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
